@@ -14,4 +14,4 @@ Também estarei desconsiderando informações pessoais dos médicos e pacientes 
 
 Informações como descrições de resultados de exames serão também desconsideradas devido ao número de dados e a profundidade que os dados serão explorados, acredito que considerar essas informações possa ser alvo de estudo de projetos futuros.
 
-Inicialmente estou em dúvida a respeito de categorizar os dados em “Outros” para campos que permitem especificar qual (irei avaliar quando iniciar as análises).
+Todas as linhas que receberiam valores como "Outros, especifique" ou algum outro semelhante foram generalizadas como "Outros" para as análises, além disso, valors que eram nulos foram substituídos para "Não preenchido".
